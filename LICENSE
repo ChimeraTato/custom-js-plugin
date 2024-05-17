@@ -1,3 +1,36 @@
+    <h1>Custom JavaScript Plugin</h1>
+
+    <h2>Description</h2>
+    <p>The <strong>Custom JavaScript Plugin</strong> is a super simple WordPress plugin that allows administrators to insert custom JavaScript in the header or footer of specific pages or site-wide. This plugin is particularly useful for those who want to add custom functionality or styles to their website without having to modify the theme files. Please note that this is a basic example and doesn’t include any input validation or error handling. You’ll want to add that for a production environment. Also, this example assumes that the user enters valid JavaScript in the settings.</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li><strong>Custom JS</strong>: Allows users to enter their custom JavaScript code.</li>
+        <li><strong>Placement</strong>: Users can select whether to place the JS in the header or the footer.</li>
+        <li><strong>Page ID</strong>: Users can specify the ID of the page where the JS should be included, or 'all' for all pages.</li>
+    </ul>
+
+    <h2>Installation</h2>
+    <ol>
+        <li>Download the plugin from the provided link.</li>
+        <li>Log in to your WordPress admin panel.</li>
+        <li>Navigate to `Plugins > Add New > Upload Plugin`.</li>
+        <li>Choose the downloaded file and click `Install Now`.</li>
+        <li>After the plugin is installed, click `Activate`.</li>
+    </ol>
+
+    <h2>Usage</h2>
+    <ol>
+        <li>Navigate to the `Custom JS Settings` page in your WordPress admin panel.</li>
+        <li>In the `Custom JS` field, enter your custom JavaScript code.</li>
+        <li>In the `Placement` dropdown, select 'header' to place the JS in the header, or 'footer' to place it in the footer.</li>
+        <li>In the `Page ID` field, enter the ID of the page where the JS should be included, or 'all' for all pages.</li>
+        <li>Click `Save Changes`.</li>
+    </ol>
+
+    <h2>Support</h2>
+    <p>If you encounter any issues or have questions about the plugin, please visit <a href="https://gonzaloprado.ar/">Gonzalo Prado's website</a>.</p>
+
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
