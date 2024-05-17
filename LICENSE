@@ -7,7 +7,7 @@ Custom JS: Allows users to enter their custom JavaScript code.
 Placement: Users can select whether to place the JS in the header or the footer.
 Page ID: Users can specify the ID of the page where the JS should be included, or ‘all’ for all pages.
 Installation
-Download the plugin from the provided link.
+Download the plugin .zip from the repository: https://github.com/ChimeraTato/custom-js-plugin/blob/main/custom-js-plugin.zip
 Log in to your WordPress admin panel.
 Navigate to Plugins > Add New > Upload Plugin.
 Choose the downloaded file and click Install Now.
