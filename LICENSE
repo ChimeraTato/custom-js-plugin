@@ -1,3 +1,9 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Custom JavaScript Plugin</title>
+</head>
+<body>
     <h1>Custom JavaScript Plugin</h1>
 
     <h2>Description</h2>
@@ -30,6 +36,8 @@
 
     <h2>Support</h2>
     <p>If you encounter any issues or have questions about the plugin, please visit <a href="https://gonzaloprado.ar/">Gonzalo Prado's website</a>.</p>
+</body>
+</html>
 
 GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
